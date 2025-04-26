@@ -7,23 +7,9 @@ Analytical professional with 7+ years of experience leveraging data to improve o
 
 ## TECHNICAL SKILLS
 
-**Analysis & Reporting:**  
-Data Analysis, KPI Development, Statistical Analysis, Trend Identification, Data Cleaning  
-
-**Tools & Tech:**  
-Excel (Advanced), Power Query, SQL, Tableau, Power BI, Google Data Studio, R (basic), Access  
-
-**Processes & Strategy:**  
-Process Automation, Workflow Optimization, Strategic Planning, Report Writing, Dashboard Development
-
----
-
-## CERTIFICATIONS
-
-**Google Data Analytics Professional Certification**  
-*Issued by Coursera – April 2025*  
-- Tools: SQL, R, Tableau, Google Sheets  
-- Skills: Data Wrangling, Visualization, Dashboards, Cleaning, and Decision-Making
+**Analysis & Reporting:**: Data Analysis, KPI Development, Statistical Analysis, Trend Identification, Data Cleaning  
+**Tools & Tech:**: Excel (Advanced), Power Query, SQL, Tableau, Power BI, Google Data Studio, R (basic), Access  
+**Processes & Strategy:**: Process Automation, Workflow Optimization, Strategic Planning, Report Writing, Dashboard Development
 
 ---
 
@@ -35,6 +21,11 @@ Process Automation, Workflow Optimization, Strategic Planning, Report Writing, D
 - Coursework in predictive analytics, financial modeling, data visualization  
 - Hands-on projects with SQL, Tableau, and Excel
 
+**Google Data Analytics Professional Certification**  
+*Issued by Coursera – April 2025*  
+- Tools: SQL, R, Tableau, Google Sheets  
+- Skills: Data Wrangling, Visualization, Dashboards, Cleaning, and Decision-Making
+  
 **Associate of Arts in Business**  
 *College of Southern Nevada – December 2023*  
 - Las Vegas, NV  
@@ -47,7 +38,6 @@ Process Automation, Workflow Optimization, Strategic Planning, Report Writing, D
 ### **Data and Accounting Leader**  
 **Western Shamrock Corporation** – San Angelo, TX  
 *November 2022 – Present*
-
 - Developed SQL queries and Excel models to analyze financial trends, improve forecasting, and identify cost-saving opportunities.
 - Created Tableau dashboards to visualize performance KPIs across 200+ branches.
 - Automated expense report processing for 200+ employees, improving accuracy and reducing turnaround time by 30%.
@@ -60,7 +50,6 @@ Process Automation, Workflow Optimization, Strategic Planning, Report Writing, D
 ### **Junior Accountant and Financial Analyst**  
 **Capital Accountant Inc.** – Las Vegas, NV  
 *December 2017 – October 2019*
-
 - Generated financial models and reports to help clients interpret business performance and identify key trends.
 - Conducted data validation and analysis of GL accounts for 10+ businesses using Excel formulas and macros.
 - Automated reporting templates to deliver monthly insights and improve client decision-making speed.
@@ -70,7 +59,6 @@ Process Automation, Workflow Optimization, Strategic Planning, Report Writing, D
 ### **Accounting and Data Operations Intern**  
 **MRB Holdings** – Reno, NV  
 *October 2016 – January 2018*
-
 - Audited operational data from 26 restaurants and created inventory dashboards to uncover cost inefficiencies.
 - Used Excel to track inventory trends and reduce waste by 10% through procurement optimization.
 - Developed weekly data-driven reports to support cross-functional decision-making in payroll and scheduling.
