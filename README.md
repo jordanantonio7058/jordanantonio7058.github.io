@@ -33,6 +33,11 @@ Analytical professional with 7+ years of experience leveraging data to improve o
 
 ---
 
+## PROJECTS
+
+
+---
+
 ## PROFESSIONAL EXPERIENCE
 
 ### **Data and Accounting Leader**  
@@ -40,20 +45,22 @@ Analytical professional with 7+ years of experience leveraging data to improve o
 *November 2022 – Present*
 - Developed SQL queries and Excel models to analyze financial trends, improve forecasting, and identify cost-saving opportunities.
 - Created Tableau dashboards to visualize performance KPIs across 200+ branches.
-- Automated expense report processing for 200+ employees, improving accuracy and reducing turnaround time by 30%.
-- Reduced sales tax filing time by 85% through data automation and streamlined workflows.
-- Designed SOPs and documented recurring data processes, improving team efficiency by 20%.
-- Led cross-functional collaboration with Finance, AP, and Audit teams to resolve data inconsistencies and enhance reporting.
+- Reduced monthly sales tax filing time by 85% through data automation and streamlined workflows.
 - Utilized Power Query and pivot tables for monthly data aggregation and reporting, increasing insight clarity.
-- Standardized and automated financial documents in Sage Intacct, supporting accurate analytics for 200+ locations.
+
+**Defense Counterintelligence and Security Agency** – Remote, NJ  
+*December 2019 – November 2022*
+
+- Guaranteed the security of sensitive information with a Top-Secret security clearance for 2 years, protecting PII.
+- Analyzed investigative data from multiple sources to inform national security clearance decisions.
+- Compiled and validated data from employment, police, and court systems for over 30 investigative reports weekly.
+- Created internal tracking systems using Excel to improve KPI visibility and reduce case processing time.
 
 ### **Junior Accountant and Financial Analyst**  
 **Capital Accountant Inc.** – Las Vegas, NV  
 *December 2017 – October 2019*
 - Generated financial models and reports to help clients interpret business performance and identify key trends.
 - Conducted data validation and analysis of GL accounts for 10+ businesses using Excel formulas and macros.
-- Automated reporting templates to deliver monthly insights and improve client decision-making speed.
-- Created tax preparation datasets and visuals to support audit compliance and planning.
 - Interpreted financial data into performance dashboards using Excel and early-stage BI tools.
 
 ### **Accounting and Data Operations Intern**  
@@ -61,7 +68,6 @@ Analytical professional with 7+ years of experience leveraging data to improve o
 *October 2016 – January 2018*
 - Audited operational data from 26 restaurants and created inventory dashboards to uncover cost inefficiencies.
 - Used Excel to track inventory trends and reduce waste by 10% through procurement optimization.
-- Developed weekly data-driven reports to support cross-functional decision-making in payroll and scheduling.
 - Enhanced inventory accuracy by 20% via spot audits and data reconciliations across departments.
 
 ---
