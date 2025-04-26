@@ -32,7 +32,7 @@
 ---
 
 ## PROJECTS
-**Mint Classics Inventory Optimization Project**
+**Mint Classics Inventory Optimization Project**  
 Data Analysis | Business Strategy | SQL Reporting
 
 - Analyzed warehouse inventory and sales data to support Mint Classics Company's initiative to close an underperforming storage facility.
@@ -42,7 +42,7 @@ Data Analysis | Business Strategy | SQL Reporting
 - Presented findings in a clear, data-driven slide deck and documented project insights for executive review and strategic planning.
 - Strengthened skills in SQL analysis, business operations evaluation, and visual storytelling for business decision-making.
 
-Google Slides Deck
+Google Slides Deck  
 SQL File Download
 
 ---
