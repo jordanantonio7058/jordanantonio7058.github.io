@@ -32,7 +32,18 @@
 ---
 
 ## PROJECTS
+**Mint Classics Inventory Optimization Project**
+Data Analysis | Business Strategy | SQL Reporting
 
+-Analyzed warehouse inventory and sales data to support Mint Classics Company's initiative to close an underperforming storage facility.
+-Developed and executed multiple SQL queries to assess warehouse profitability, customer proximity, product turnover rates, and inventory value.
+-Identified the optimal facility for closure based on sales trends, customer distribution, and inventory efficiency.
+-Proposed actionable recommendations to consolidate inventory, liquidate slow-moving products, and maintain timely customer service.
+-Presented findings in a clear, data-driven slide deck and documented project insights for executive review and strategic planning.
+-Strengthened skills in SQL analysis, business operations evaluation, and visual storytelling for business decision-making.
+
+Google Slides Deck
+SQL File Download
 
 ---
 
