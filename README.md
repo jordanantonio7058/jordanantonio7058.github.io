@@ -1,7 +1,5 @@
 # Data Analyst
-  📍 San Angelo, TX   📧 jordan.antonio7058@gmail.com   📞 702-273-7058 
-
-Analytical professional with 7+ years of experience leveraging data to improve operational efficiency, streamline reporting, and inform strategic business decisions. Certified in Google Data Analytics, pursuing a Bachelor's in Business Analytics, and proficient in SQL, Excel, Tableau, and Power BI. Proven ability to turn complex data into clear insights across finance, operations, and security domains.
+  📍 San Angelo, TX   📧 jordan.antonio7058@gmail.com   📞 702-273-7058   [LinkedIn](https://www.linkedin.com/in/jordanantonio/)
 
 ---
 
