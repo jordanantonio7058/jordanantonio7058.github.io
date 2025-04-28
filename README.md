@@ -42,8 +42,6 @@ Data Analysis | Business Strategy | SQL Reporting
 - Presented findings in a clear, data-driven slide deck and documented project insights for executive review and strategic planning.
 - Strengthened skills in SQL analysis, business operations evaluation, and visual storytelling for business decision-making.
 
-Google Slides Deck  
-SQL File Download
 
 ---
 
