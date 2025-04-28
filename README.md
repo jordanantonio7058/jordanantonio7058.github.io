@@ -57,6 +57,7 @@ SQL File Download
 - Reduced monthly sales tax filing time by 85% through data automation and streamlined workflows.
 - Utilized Power Query and pivot tables for monthly data aggregation and reporting, increasing insight clarity.
 
+### **Investigative Assistant- Special Agent**
 **Defense Counterintelligence and Security Agency** – Remote, NJ  
 *December 2019 – November 2022*
 
